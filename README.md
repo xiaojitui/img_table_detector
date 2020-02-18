@@ -2,7 +2,7 @@
 
 This is a CNN-RNN model to detect table areas in an image or a sacnned pdf file. 
 
-*note: models in 'object_dection' use more advanced algorithms to do the detection. 
+*note: models in 'object_detection' use more advanced algorithms to do the detection. 
 
 <br><br>
 The algorithm is: 
