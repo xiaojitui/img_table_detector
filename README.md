@@ -3,6 +3,7 @@
 This is a CNN-RNN model to detect table areas in an image or a sacnned pdf file. 
 
 *note: models in 'object_dection' use more advanced algorithms to do the detection. 
+
 <br><br>
 The algorithm is: 
 
@@ -13,6 +14,7 @@ The algorithm is:
 (3) in vertical direction, use another Bi_LSTM to connect horizontal pieces, and get the row's vertical features
 
 (4) finally, classify if the horizoanl piece (row like) is within or out of the table boundary box. 
+
 <br><br>
 The images for training should be put into 'train_images' folder. 
 
